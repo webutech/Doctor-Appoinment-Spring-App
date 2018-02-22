@@ -5,4 +5,5 @@
 training and implementation team.
 - improves communication with team members														
 
+### User Login Flow
 ![Image of User Login flow diagram](https://github.com/webutech/Doctor-Appoinment-Spring-App/blob/master/images/user_login.png)
