@@ -5,4 +5,4 @@
 training and implementation team.
 - improves communication with team members														
 
-![Image of User Login flow diagram](https://octodex.github.com/images/yaktocat.png)
+![Image of User Login flow diagram](https://github.com/webutech/Doctor-Appoinment-Spring-App/blob/master/images/user_login.png)
