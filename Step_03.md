@@ -8,7 +8,6 @@
 ![image of Entity diagram](https://github.com/webutech/Doctor-Appoinment-Spring-App/blob/master/images/entity_attribute.png)
 
 ## Role of entity in front end and back end
-
-![image of Entity diagram]()
+![image of Entity diagram](https://github.com/webutech/Doctor-Appoinment-Spring-App/blob/master/images/entity_role.png)
 						
 						
