@@ -4,6 +4,8 @@
 
 > Ctrl + D : Removes a row of code
 
+> Ctrl + Shift + R : Search for resource in project
+
 > Ctrl + Shift + O : Organizes imports and removes unrelated imports
 
 > Shift + Ctrl + T : Search for a file in all projects in the workspace
