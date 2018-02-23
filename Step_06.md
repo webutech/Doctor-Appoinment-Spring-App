@@ -13,6 +13,21 @@
 - provide the project name in artifact id
 - Click on finish
 
+### Creating src/main/java and src/test/java source folders
+
+- Go on src > main (folder)
+- press Ctrl + n
+- Write folder in filter text box
+- give it a name as java
+
+- Go on src (folder)
+- Press Ctrl + n
+- Write folder in filter text box
+- give it a name as test
+- repeat the steps for creating java folder inside test folder
+
+
+
 ### Add the targeted runtime in project (Adding tomcat server)
 - select project and press Alt + Enter
 - from the project properties window select targetted runtime option and choose tomcat server.
