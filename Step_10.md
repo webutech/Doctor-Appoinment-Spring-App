@@ -5,5 +5,5 @@ front page. this page will look like as below screen shot.
 
 ![home page]()
 
-[Theam Reference](https://getbootstrap.com/docs/4.0/examples/sticky-footer-navbar/)
+[Theam Reference](https://getbootstrap.com/docs/4.0/examples/sticky-footer-navbar/){:target="_blank"}
 
