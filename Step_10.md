@@ -11,4 +11,3 @@ front page. this page will look like as below screen shot.
 - Add additional spring link preparation tag for sticky-footer-navbar.css file
 - Add the link for sticky-footer-navbar.css
 - rerun the application
-
