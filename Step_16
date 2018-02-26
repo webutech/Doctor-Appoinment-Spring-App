@@ -1,6 +1,7 @@
 ## DAO and DAOImpl  
 Here i will show you to write the DAO and its implementation. It will be only a sample code. Further logics can be improved. 
 - Inside **com.yash.damsapp.dao** package create UserDAO interface and add below code. 
+
 ```
 package com.yash.damsapp.dao;
 import com.yash.damsapp.domain.User;
