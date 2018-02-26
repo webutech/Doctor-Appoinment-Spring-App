@@ -1,6 +1,7 @@
 ## JDBC Configuration
 
-Here we will be using the Spring JDBC template along with BasicDataSource. we will be creating a separate xml file for configuring jdbc properties using properties file. 
+Here we will be using the Spring JDBC template along with BasicDataSource. we will be creating a separate xml file for 
+configuring jdbc properties using properties file. 
 
 ### Steps
 - Create **resources** package in src/main/java
